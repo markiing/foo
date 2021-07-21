@@ -1,0 +1,2108 @@
+[
+    {
+        "description": "Paypal*Paypal *99app",
+        "category": "transaction",
+        "amount": 840,
+        "time": "2021-07-13T16:47:34Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 840,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "unsettled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60edc3a7-209b-4a5b-aef6-0537667e7214",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDtc_V8zy1wtQmrL1368kxziDCQsg.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlZGMzYTctMjA5Yi00YTViLWFlZjYtMDUzNzY2N2U3MjE0"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60edc3a7-209b-4a5b-aef6-0537667e7214"
+    },
+    {
+        "description": "Paypal *99app",
+        "category": "transaction",
+        "amount": 770,
+        "time": "2021-07-13T11:53:23Z",
+        "source": "upfront_national",
+        "title": "transporte",
+        "amount_without_iof": 770,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "unsettled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60ed7eb4-a89e-45c5-bb50-d751f44373c1",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAih9QrRl8bE88ta2r2kP5pO0VZsw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlZDdlYjQtYTg5ZS00NWM1LWJiNTAtZDc1MWY0NDM3M2Mx"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/60ed7eb4-a89e-45c5-bb50-d751f44373c1"
+    },
+    {
+        "description": "Paypal *Uber",
+        "category": "transaction_reversed",
+        "amount": 694,
+        "time": "2021-07-13T11:35:56Z",
+        "source": "upfront_national",
+        "title": "transporte",
+        "amount_without_iof": 694,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "canceled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60ed7a9e-8e66-4036-9452-28e8c04aff6d",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAAbiqKDRwWtRgyjAfHgipA6kYKpA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlZDdhOWUtOGU2Ni00MDM2LTk0NTItMjhlOGMwNGFmZjZk"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/60ed7a9e-8e66-4036-9452-28e8c04aff6d"
+    },
+    {
+        "category": "payment",
+        "time": "2021-07-13T02:59:59.999Z",
+        "title": "Pagamento recebido",
+        "id": "60ec58d0-8208-4064-b310-3586a8d8a085",
+        "amount": 40000
+    },
+    {
+        "description": "Paypal *Microsoft Sub",
+        "category": "transaction",
+        "amount": 2999,
+        "time": "2021-07-13T02:41:03Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 2999,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60ecfd41-db3b-49cb-b224-958b28ba3b0b",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBYkZDif9fY0ROgxLECXUdT7bqIow.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlY2ZkNDEtZGIzYi00OWNiLWIyMjQtOTU4YjI4YmEzYjBi"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/60ecfd41-db3b-49cb-b224-958b28ba3b0b"
+    },
+    {
+        "description": "Slu03 Montecaste Ma",
+        "category": "transaction",
+        "amount": 7651,
+        "time": "2021-07-12T14:01:50Z",
+        "source": "upfront_national",
+        "title": "saúde",
+        "amount_without_iof": 7651,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_present"
+        },
+        "id": "60ec4b50-0b3f-4d16-a1db-bf51ea217775",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LA1TOhe3kGpMQxV8HYE4KlBJ2dlEg.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlYzRiNTAtMGIzZi00ZDE2LWExZGItYmY1MWVhMjE3Nzc1"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/60ec4b50-0b3f-4d16-a1db-bf51ea217775"
+    },
+    {
+        "description": "Aguiar Petroleo e Loca",
+        "category": "transaction",
+        "amount": 28621,
+        "time": "2021-07-12T12:17:48Z",
+        "source": "upfront_national",
+        "title": "transporte",
+        "amount_without_iof": 28621,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_present"
+        },
+        "id": "60ec32ed-46f9-4ad9-b4db-6f4867ffd429",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDJWPVStK3l_tSR1tSyKlREczE7-A.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlYzMyZWQtNDZmOS00YWQ5LWI0ZGItNmY0ODY3ZmZkNDI5"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/60ec32ed-46f9-4ad9-b4db-6f4867ffd429"
+    },
+    {
+        "description": "Mateus Supermercados",
+        "category": "transaction",
+        "amount": 12900,
+        "time": "2021-07-09T23:16:04Z",
+        "source": "upfront_national",
+        "title": "supermercado",
+        "amount_without_iof": 12900,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_present"
+        },
+        "id": "60e8d8b5-85ff-4748-a98a-902394b76043",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDRzagU_Rl0aV05TDkfrfNFd-xQaQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlOGQ4YjUtODVmZi00NzQ4LWE5OGEtOTAyMzk0Yjc2MDQz"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/60e8d8b5-85ff-4748-a98a-902394b76043"
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 2150,
+        "time": "2021-07-08T22:24:17Z",
+        "source": "upfront_national",
+        "title": "supermercado",
+        "amount_without_iof": 2150,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60e77b12-e022-4b7a-949d-e1bd7dcc19bb",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDx6GIXrex_wAQp19FP1tTXfXNRcA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlNzdiMTItZTAyMi00YjdhLTk0OWQtZTFiZDdkY2MxOWJi"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60e77b12-e022-4b7a-949d-e1bd7dcc19bb"
+    },
+    {
+        "description": "Amazonprimebr",
+        "category": "transaction",
+        "amount": 990,
+        "time": "2021-07-07T16:49:11Z",
+        "source": "upfront_national",
+        "title": "educação",
+        "amount_without_iof": 990,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60e5db08-5b40-41ca-a5c9-d50379f6cd63",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LA-kBE0iMJsrg4m9NH1SgIcPwzR3w.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlNWRiMDgtNWI0MC00MWNhLWE1YzktZDUwMzc5ZjZjZDYz"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60e5db08-5b40-41ca-a5c9-d50379f6cd63"
+    },
+    {
+        "category": "payment",
+        "time": "2021-07-07T02:59:59.999Z",
+        "title": "Pagamento recebido",
+        "id": "60e47e34-abc1-435e-b3ca-b5f21f1c54ef",
+        "amount": 131506
+    },
+    {
+        "category": "payment",
+        "time": "2021-07-07T02:59:59.999Z",
+        "title": "Pagamento recebido",
+        "id": "60e47cd7-8e83-40aa-b9ab-2303013bf160",
+        "amount": 29759
+    },
+    {
+        "description": "Amazon.Com.Br",
+        "category": "transaction",
+        "amount": 29759,
+        "time": "2021-07-06T15:24:56Z",
+        "source": "upfront_national",
+        "title": "eletrônicos",
+        "amount_without_iof": 29759,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60e475c9-2c12-4be0-9499-1cabc71f7c5f",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAXhgjL40RvbWXTLfsWgz4jRaOvPw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlNDc1YzktMmMxMi00YmUwLTk0OTktMWNhYmM3MWY3YzVm"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60e475c9-2c12-4be0-9499-1cabc71f7c5f"
+    },
+    {
+        "description": "Netflix.Com",
+        "category": "transaction",
+        "amount": 4590,
+        "time": "2021-07-06T12:28:04Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 4590,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60e44c56-ed1c-45d9-bd65-5513bfef2a7a",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDY7iFL4CtiSXmdaXOZZNEx86klUQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlNDRjNTYtZWQxYy00NWQ5LWJkNjUtNTUxM2JmZWYyYTdh"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/60e44c56-ed1c-45d9-bd65-5513bfef2a7a"
+    },
+    {
+        "description": "Paypal *Uber",
+        "category": "transaction_reversed",
+        "amount": 793,
+        "time": "2021-07-05T18:12:29Z",
+        "source": "upfront_national",
+        "title": "transporte",
+        "amount_without_iof": 793,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "canceled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60e34b8d-0950-4e29-bccc-27d5ca0021fb",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LCUSKzBr6AggjfV0AZ01tFfXqY6rA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlMzRiOGQtMDk1MC00ZTI5LWJjY2MtMjdkNWNhMDAyMWZi"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60e34b8d-0950-4e29-bccc-27d5ca0021fb"
+    },
+    {
+        "description": "Paypal *Uber",
+        "category": "transaction_reversed",
+        "amount": 694,
+        "time": "2021-07-05T18:04:13Z",
+        "source": "upfront_national",
+        "title": "transporte",
+        "amount_without_iof": 694,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "canceled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60e3499f-47b4-41c8-9976-22d2ea3ea8da",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBqrQV4-2hPxXZB43r89Ghml_VK5Q.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlMzQ5OWYtNDdiNC00MWM4LTk5NzYtMjJkMmVhM2VhOGRh"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60e3499f-47b4-41c8-9976-22d2ea3ea8da"
+    },
+    {
+        "description": "Paypal *Uber",
+        "category": "transaction",
+        "amount": 661,
+        "time": "2021-07-05T17:03:13Z",
+        "source": "upfront_national",
+        "title": "transporte",
+        "amount_without_iof": 661,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60e33b52-4d7c-47d9-aefb-b766d17ee345",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBDVx9COI17Gu2PC_CAxz-_V7etTw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlMzNiNTItNGQ3Yy00N2Q5LWFlZmItYjc2NmQxN2VlMzQ1"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60e33b52-4d7c-47d9-aefb-b766d17ee345"
+    },
+    {
+        "description": "T=Alimentação, D=Ifood,S=Marcus(100)",
+        "category": "transaction",
+        "amount": 4899,
+        "time": "2021-07-04T15:48:24Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 4899,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60e1d849-d7c8-47ad-be55-7014f77db34c",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LC4tXV96Y-D4yBqWqqpFzv-SMCCSQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlMWQ4NDktZDdjOC00N2FkLWJlNTUtNzAxNGY3N2RiMzRj"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60e1d849-d7c8-47ad-be55-7014f77db34c"
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 4820,
+        "time": "2021-07-03T22:54:03Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 4820,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60e0ea8c-eaa4-4fc7-afc9-788f6fcbaf10",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LChECCniMoMHW1mrNoLw_G1BEGuQA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlMGVhOGMtZWFhNC00ZmM3LWFmYzktNzg4ZjZmY2JhZjEw"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60e0ea8c-eaa4-4fc7-afc9-788f6fcbaf10"
+    },
+    {
+        "description": "Mãe ana- Alenia",
+        "category": "transaction",
+        "amount": 8532,
+        "time": "2021-07-03T15:07:48Z",
+        "source": "upfront_national",
+        "title": "saúde",
+        "amount_without_iof": 8532,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "lat": -2.5441777,
+            "lon": -44.2724648,
+            "subcategory": "card_present"
+        },
+        "id": "60e07d45-c485-470a-9eca-7f20d268b107",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LD_qRuALaWiH5a42DVpIJdH7KkpxA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBlMDdkNDUtYzQ4NS00NzBhLTllY2EtN2YyMGQyNjhiMTA3"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60e07d45-c485-470a-9eca-7f20d268b107"
+    },
+    {
+        "description": "Ame Digital",
+        "category": "transaction",
+        "amount": 14169,
+        "time": "2021-07-02T14:54:57Z",
+        "source": "upfront_national",
+        "title": "eletrônicos",
+        "amount_without_iof": 14169,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60df28c3-efa6-4fca-a5e4-e63b7ccc19f7",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LC2QDHIbIhqHZiJOHnsomM3J1dMiQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkZjI4YzMtZWZhNi00ZmNhLWE1ZTQtZTYzYjdjY2MxOWY3"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60df28c3-efa6-4fca-a5e4-e63b7ccc19f7"
+    },
+    {
+        "description": "Nosso Posto Joyce Ii",
+        "category": "transaction",
+        "amount": 27682,
+        "time": "2021-07-02T12:39:31Z",
+        "source": "upfront_national",
+        "title": "transporte",
+        "amount_without_iof": 27682,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_present"
+        },
+        "id": "60df0904-f34c-4a7f-ae3c-8de38725b029",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBvLocfng_4mBQIhAWIgIprD3i7CA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkZjA5MDQtZjM0Yy00YTdmLWFlM2MtOGRlMzg3MjViMDI5"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/60df0904-f34c-4a7f-ae3c-8de38725b029"
+    },
+    {
+        "description": "Mãe Ana - Panela",
+        "category": "transaction",
+        "amount": 32999,
+        "time": "2021-07-01T16:50:47Z",
+        "source": "installments_merchant",
+        "title": "eletrônicos",
+        "amount_without_iof": 32999,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "charges": {
+                "count": 3,
+                "amount": 10999
+            },
+            "subcategory": "card_present"
+        },
+        "id": "60ddf267-48b1-4de5-a0c1-3ba6678665a4",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBhvhrnuZdyO3fYi41eGrfo7_qFBw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkZGYyNjctNDhiMS00ZGU1LWEwYzEtM2JhNjY3ODY2NWE0"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60ddf267-48b1-4de5-a0c1-3ba6678665a4"
+    },
+    {
+        "category": "payment",
+        "time": "2021-07-01T02:59:59.999Z",
+        "title": "Pagamento recebido",
+        "id": "60dc4522-40d9-4619-8e71-d7ab25f3ab2a",
+        "amount": 181182
+    },
+    {
+        "description": "Paypal *Uber",
+        "category": "transaction",
+        "amount": 1596,
+        "time": "2021-06-30T12:57:42Z",
+        "source": "upfront_national",
+        "title": "transporte",
+        "amount_without_iof": 1596,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60dc6a47-9d68-41ea-a037-caab32ae05bc",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAtKFi1CZIADopp5ILTrqe_Dm5hvA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkYzZhNDctOWQ2OC00MWVhLWEwMzctY2FhYjMyYWUwNWJj"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60dc6a47-9d68-41ea-a037-caab32ae05bc"
+    },
+    {
+        "category": "bill_flow_paid",
+        "time": "2021-06-30T10:19:26.523Z",
+        "title": "Fatura paga",
+        "description": "",
+        "id": "60dc452e-7aa7-47d9-97b2-ad543ac20be2",
+        "href": "nuapp://bill/60d6a006-b223-4627-9aae-ddec5939b3ba",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBDpmvV7K_FuCwPU3uUjO7XR94vYg.aHR0cHM6Ly9wcm9kLXMwLWJpbGxpbmcubnViYW5rLmNvbS5ici9hcGkvYmlsbHMvNjBkNmEwMDYtYjIyMy00NjI3LTlhYWUtZGRlYzU5MzliM2Jh"
+            }
+        }
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 16309,
+        "time": "2021-06-29T21:23:54Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 16309,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "lat": -22.9647994,
+            "lon": -43.1770163,
+            "subcategory": "card_not_present"
+        },
+        "id": "60db8f6b-34e1-433d-b582-90ff3ae4091d",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LB6_PVGuWkDoCSU4UsjMHXKxqzKVA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkYjhmNmItMzRlMS00MzNkLWI1ODItOTBmZjNhZTQwOTFk"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60db8f6b-34e1-433d-b582-90ff3ae4091d"
+    },
+    {
+        "description": "Google Ellation",
+        "category": "transaction",
+        "amount": 254,
+        "time": "2021-06-29T20:21:04Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 254,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60db80b1-0e47-45e0-b537-0692cbeb51b6",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBlm8nq-HewrbK77TMU_TNZrWzXxQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkYjgwYjEtMGU0Ny00NWUwLWI1MzctMDY5MmNiZWI1MWI2"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60db80b1-0e47-45e0-b537-0692cbeb51b6"
+    },
+    {
+        "description": "Google Youtubepremium",
+        "category": "transaction",
+        "amount": 3190,
+        "time": "2021-06-29T15:18:03Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 3190,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60db39ac-af47-4775-ab3b-25acdbcdf3ab",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LD8Utph6ksqiHFs8gO_gweyTtg7sg.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkYjM5YWMtYWY0Ny00Nzc1LWFiM2ItMjVhY2RiY2RmM2Fi"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60db39ac-af47-4775-ab3b-25acdbcdf3ab"
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 5690,
+        "time": "2021-06-28T22:13:52Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 5690,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60da49a1-c467-4840-983f-b358c9f6b421",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LC0kToMGnfTxFrt0gaUde2ps9mO4g.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkYTQ5YTEtYzQ2Ny00ODQwLTk4M2YtYjM1OGM5ZjZiNDIx"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60da49a1-c467-4840-983f-b358c9f6b421"
+    },
+    {
+        "description": "Malas - Gol (Dividir por 3)",
+        "category": "transaction",
+        "amount": 18000,
+        "time": "2021-06-28T13:59:41Z",
+        "source": "upfront_national",
+        "title": "viagem",
+        "amount_without_iof": 18000,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "lat": -22.9649172,
+            "lon": -43.1769761,
+            "subcategory": "card_not_present"
+        },
+        "id": "60d9d5ce-9437-47ba-82a8-d01379472355",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAl9ZxCYY6P9xBhyL3HBwywXXtGmw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkOWQ1Y2UtOTQzNy00N2JhLTgyYTgtZDAxMzc5NDcyMzU1"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60d9d5ce-9437-47ba-82a8-d01379472355"
+    },
+    {
+        "description": "Starbucks",
+        "category": "transaction",
+        "amount": 4440,
+        "time": "2021-06-27T19:12:11Z",
+        "source": "upfront_national",
+        "title": "supermercado",
+        "amount_without_iof": 4440,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_present"
+        },
+        "id": "60d8cd8c-cc94-41b3-8082-d17dc0b1ab20",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LCeWcwFv__l3qjT0VoZ0rod0t3F-w.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkOGNkOGMtY2M5NC00MWIzLTgwODItZDE3ZGMwYjFhYjIw"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60d8cd8c-cc94-41b3-8082-d17dc0b1ab20"
+    },
+    {
+        "description": "Mãe Ana - Havaiana",
+        "category": "transaction",
+        "amount": 7799,
+        "time": "2021-06-27T18:44:31Z",
+        "source": "upfront_national",
+        "title": "vestuário",
+        "amount_without_iof": 7799,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "lat": -22.9575156,
+            "lon": -43.1766564,
+            "subcategory": "card_present"
+        },
+        "id": "60d8c711-714f-4d3e-80c6-5b137c1ac3d6",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBGqGKIr7Qis5qG2gXPEJmFWtSiNA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkOGM3MTEtNzE0Zi00ZDNlLTgwYzYtNWIxMzdjMWFjM2Q2"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/60d8c711-714f-4d3e-80c6-5b137c1ac3d6"
+    },
+    {
+        "description": "Paypal *Uber",
+        "category": "transaction",
+        "amount": 680,
+        "time": "2021-06-27T18:22:32Z",
+        "source": "upfront_national",
+        "title": "transporte",
+        "amount_without_iof": 680,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60d8c1e9-b633-4f44-878b-ca76aa9c88d3",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LCIYDLpfmmQtquL3ASNeg1SAq5Ubg.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkOGMxZTktYjYzMy00ZjQ0LTg3OGItY2E3NmFhOWM4OGQz"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60d8c1e9-b633-4f44-878b-ca76aa9c88d3"
+    },
+    {
+        "description": "Steam - A lenda do herói",
+        "category": "transaction",
+        "amount": 2656,
+        "time": "2021-06-27T15:11:51Z",
+        "source": "upfront_foreign",
+        "title": "lazer",
+        "amount_without_iof": 2497,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "fx": {
+                "currency_origin": "BRL",
+                "amount_origin": 2399,
+                "amount_usd": 488,
+                "precise_amount_origin": "23.99",
+                "precise_amount_usd": "4.88",
+                "exchange_rate": 5.116803278688525
+            },
+            "subcategory": "card_not_present"
+        },
+        "id": "60d89537-2bca-43f8-b997-08fa2a1c0318",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LCN8Mx75wqNbPEURmVvZcZkKJAW1A.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkODk1MzctMmJjYS00M2Y4LWI5OTctMDhmYTJhMWMwMzE4"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60d89537-2bca-43f8-b997-08fa2a1c0318"
+    },
+    {
+        "description": "Mãe Ana - Virou Tendencia",
+        "category": "transaction",
+        "amount": 4300,
+        "time": "2021-06-26T15:01:01Z",
+        "source": "upfront_national",
+        "title": "outros",
+        "amount_without_iof": 4300,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "tags": [
+                "mãe ana"
+            ],
+            "subcategory": "card_present"
+        },
+        "id": "60d7412f-2ef0-4a89-8852-faac1b3a9088",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAmHb8v0jvAqpUWc5ZdcKKQrr8u-w.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkNzQxMmYtMmVmMC00YTg5LTg4NTItZmFhYzFiM2E5MDg4"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60d7412f-2ef0-4a89-8852-faac1b3a9088"
+    },
+    {
+        "description": "Steam - DBZ Fighters Z",
+        "category": "transaction",
+        "amount": 3980,
+        "time": "2021-06-26T14:35:29Z",
+        "source": "upfront_foreign",
+        "title": "lazer",
+        "amount_without_iof": 3741,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "fx": {
+                "currency_origin": "BRL",
+                "amount_origin": 3598,
+                "amount_usd": 731,
+                "precise_amount_origin": "35.98",
+                "precise_amount_usd": "7.31",
+                "exchange_rate": 5.117647058823529
+            },
+            "subcategory": "card_not_present"
+        },
+        "id": "60d73b32-033f-4870-a691-8004cf93e9a3",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAxmlBvwrRTF1jgHzAGpoJSVtYkJQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkNzNiMzItMDMzZi00ODcwLWE2OTEtODAwNGNmOTNlOWEz"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60d73b32-033f-4870-a691-8004cf93e9a3"
+    },
+    {
+        "description": "Mãe Ana - Artesanato Indio",
+        "category": "transaction",
+        "amount": 21000,
+        "time": "2021-06-26T14:18:02Z",
+        "source": "upfront_national",
+        "title": "outros",
+        "amount_without_iof": 21000,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_present"
+        },
+        "id": "60d7371c-95b6-47e5-a98e-dbec2edae374",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBMzcZcNs-TM6UXq0XLTr0yItcBdA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkNzM3MWMtOTViNi00N2U1LWE5OGUtZGJlYzJlZGFlMzc0"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60d7371c-95b6-47e5-a98e-dbec2edae374"
+    },
+    {
+        "category": "bill_flow_closed",
+        "time": "2021-06-26T05:15:14.447Z",
+        "title": "Fatura fechada",
+        "description": "Vence em 05/07, e hoje é o melhor dia para compras.",
+        "id": "60d6a006-b223-4627-9aae-ddec5939b3ba",
+        "href": "nuapp://bill/60d6a006-b223-4627-9aae-ddec5939b3ba",
+        "amount": 181182,
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBDpmvV7K_FuCwPU3uUjO7XR94vYg.aHR0cHM6Ly9wcm9kLXMwLWJpbGxpbmcubnViYW5rLmNvbS5ici9hcGkvYmlsbHMvNjBkNmEwMDYtYjIyMy00NjI3LTlhYWUtZGRlYzU5MzliM2Jh"
+            }
+        }
+    },
+    {
+        "description": "Rest Marisqueira",
+        "category": "transaction",
+        "amount": 10000,
+        "time": "2021-06-25T22:29:12Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 10000,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_present"
+        },
+        "id": "60d658b8-8867-4087-a340-4a3e6064b155",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAIhJI9haxIBvbwLExXNb_qFnF50w.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkNjU4YjgtODg2Ny00MDg3LWEzNDAtNGEzZTYwNjRiMTU1"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60d658b8-8867-4087-a340-4a3e6064b155"
+    },
+    {
+        "description": "Ifood - chocolate eve",
+        "category": "transaction",
+        "amount": 13890,
+        "time": "2021-06-25T18:19:25Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 13890,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60d61e2e-cc50-4cc2-af46-0d3679334127",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDEixclYkZvb6BD5oIrGf8fT5UnfA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkNjFlMmUtY2M1MC00Y2MyLWFmNDYtMGQzNjc5MzM0MTI3"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60d61e2e-cc50-4cc2-af46-0d3679334127"
+    },
+    {
+        "category": "payment",
+        "time": "2021-06-23T02:59:59.999Z",
+        "title": "Pagamento recebido",
+        "id": "60d24db0-5c2f-4f40-acea-6ec6b0a60f07",
+        "amount": 13560
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 13591,
+        "time": "2021-06-22T20:49:59Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 13591,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "lat": -22.9649652,
+            "lon": -43.1768588,
+            "subcategory": "card_not_present"
+        },
+        "id": "60d24cf8-d157-4273-8d43-eb4f7f04652d",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LB8MKIPOnJS7Y5ZRZ15m3qJWQfRQA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkMjRjZjgtZDE1Ny00MjczLThkNDMtZWI0ZjdmMDQ2NTJk"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60d24cf8-d157-4273-8d43-eb4f7f04652d"
+    },
+    {
+        "description": "Paypal *Uber do Brasi",
+        "category": "transaction",
+        "amount": 3237,
+        "time": "2021-06-22T18:40:20Z",
+        "source": "upfront_national",
+        "title": "transporte",
+        "amount_without_iof": 3237,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60d22e95-6bc1-48cb-b167-c007506382e8",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAW5fET5GsZagXBnQKvu07qjU5Saw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkMjJlOTUtNmJjMS00OGNiLWIxNjctYzAwNzUwNjM4MmU4"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60d22e95-6bc1-48cb-b167-c007506382e8"
+    },
+    {
+        "description": "Paypal *Uber",
+        "category": "transaction_reversed",
+        "amount": 3197,
+        "time": "2021-06-22T17:36:47Z",
+        "source": "upfront_national",
+        "title": "transporte",
+        "amount_without_iof": 3197,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "canceled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60d21fb1-de23-4813-82ae-2432fb648a2b",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LB4-KRmYxZ4V8CD90Jepswk49n06Q.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkMjFmYjEtZGUyMy00ODEzLTgyYWUtMjQzMmZiNjQ4YTJi"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60d21fb1-de23-4813-82ae-2432fb648a2b"
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 8364,
+        "time": "2021-06-22T14:53:17Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 8364,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60d1f95f-2674-4b1a-9b94-9875eccf0651",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDIJ0DLlr5548ZVjA_JSI5p75jhEw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkMWY5NWYtMjY3NC00YjFhLTliOTQtOTg3NWVjY2YwNjUx"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60d1f95f-2674-4b1a-9b94-9875eccf0651"
+    },
+    {
+        "description": "Amazon-Marketplace",
+        "category": "transaction",
+        "amount": 4190,
+        "time": "2021-06-21T15:16:36Z",
+        "source": "upfront_national",
+        "title": "eletrônicos",
+        "amount_without_iof": 4190,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60d0ad54-1962-4b5d-b5f9-21289914b9e7",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAfJ2bijtoLlwTme_nlDMCqdVYYWw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBkMGFkNTQtMTk2Mi00YjVkLWI1ZjktMjEyODk5MTRiOWU3"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60d0ad54-1962-4b5d-b5f9-21289914b9e7"
+    },
+    {
+        "description": "Drogarias Pacheco",
+        "category": "transaction",
+        "amount": 4788,
+        "time": "2021-06-18T18:34:13Z",
+        "source": "upfront_national",
+        "title": "saúde",
+        "amount_without_iof": 4788,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_present"
+        },
+        "id": "60cce726-9a2d-4bf0-ab51-db43bdf27283",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LD-3IpixrzG8vz_xAxrjRwZ31Pg9w.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBjY2U3MjYtOWEyZC00YmYwLWFiNTEtZGI0M2JkZjI3Mjgz"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/60cce726-9a2d-4bf0-ab51-db43bdf27283"
+    },
+    {
+        "description": "Eletro-Info Recreio Pr",
+        "category": "transaction",
+        "amount": 2400,
+        "time": "2021-06-18T18:21:30Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 2400,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_present"
+        },
+        "id": "60cce42b-e565-45f1-a695-2efbbe7786c4",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDSwMlw3FsW4a56283PeqrHKCBNww.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBjY2U0MmItZTU2NS00NWYxLWE2OTUtMmVmYmJlNzc4NmM0"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60cce42b-e565-45f1-a695-2efbbe7786c4"
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 4580,
+        "time": "2021-06-16T21:50:25Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 4580,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "lat": -23.0086827,
+            "lon": -43.4353773,
+            "subcategory": "card_not_present"
+        },
+        "id": "60ca7222-147e-458a-be31-c839f5e8d44c",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBNWnkIsvCeGe495YZnD2WvrlX3vw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBjYTcyMjItMTQ3ZS00NThhLWJlMzEtYzgzOWY1ZThkNDRj"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60ca7222-147e-458a-be31-c839f5e8d44c"
+    },
+    {
+        "description": "Google Youtube Super",
+        "category": "transaction",
+        "amount": 500,
+        "time": "2021-06-16T02:20:01Z",
+        "source": "upfront_national",
+        "title": "outros",
+        "amount_without_iof": 500,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60c95fd1-bec3-4faa-88ca-50b4d18abdba",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LCQeoc6Odz1IOI2ZK5gQ-M7cMjsWQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBjOTVmZDEtYmVjMy00ZmFhLTg4Y2EtNTBiNGQxOGFiZGJh"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60c95fd1-bec3-4faa-88ca-50b4d18abdba"
+    },
+    {
+        "description": "Ebanx*Spotify",
+        "category": "transaction",
+        "amount": 2490,
+        "time": "2021-06-15T01:32:40Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 2490,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60c8033b-c7e8-4fd5-8667-36b1e62e903b",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LD782Ptyx_p-fRG-0prhoo_-DHfIA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBjODAzM2ItYzdlOC00ZmQ1LTg2NjctMzZiMWU2MmU5MDNi"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60c8033b-c7e8-4fd5-8667-36b1e62e903b"
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 6381,
+        "time": "2021-06-14T21:31:48Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 6381,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60c7cac5-ea70-405c-89e3-87858fa452e9",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDVJRnPATTC09KW7X42ZT53wgukZA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBjN2NhYzUtZWE3MC00MDVjLTg5ZTMtODc4NThmYTQ1MmU5"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60c7cac5-ea70-405c-89e3-87858fa452e9"
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 2682,
+        "time": "2021-06-13T15:01:55Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 2682,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "tags": [
+                "mãe ana"
+            ],
+            "lat": -23.0085106,
+            "lon": -43.4356323,
+            "subcategory": "card_not_present"
+        },
+        "id": "60c61de4-822a-4e8d-b9fc-af28047dce3d",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBmPozNXqnVhWN7-EuwWzKu4O_McQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBjNjFkZTQtODIyYS00ZThkLWI5ZmMtYWYyODA0N2RjZTNk"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60c61de4-822a-4e8d-b9fc-af28047dce3d"
+    },
+    {
+        "description": "Paypal*Microsoftsubs",
+        "category": "transaction",
+        "amount": 2999,
+        "time": "2021-06-13T06:35:50Z",
+        "source": "upfront_national",
+        "title": "outros",
+        "amount_without_iof": 2999,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60c5a747-8415-49fd-8146-bb6fa602e057",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDVNvMwST54HTNueTdlAt3TYe7yQw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBjNWE3NDctODQxNS00OWZkLTgxNDYtYmI2ZmE2MDJlMDU3"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60c5a747-8415-49fd-8146-bb6fa602e057"
+    },
+    {
+        "category": "payment",
+        "time": "2021-06-13T02:59:59.999Z",
+        "title": "Pagamento recebido",
+        "id": "60c5265c-0685-48d8-b7fb-290a5df783cc",
+        "amount": 20000
+    },
+    {
+        "description": "Outb85954241*Ifood",
+        "category": "transaction",
+        "amount": 20050,
+        "time": "2021-06-12T21:25:07Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 20050,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "tags": [
+                "jantar com minha preta"
+            ],
+            "lat": -23.0097433,
+            "lon": -43.354005,
+            "subcategory": "card_not_present"
+        },
+        "id": "60c52634-6f29-4045-9344-080e148059fd",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDmPQlAkBxvekC86IyjHfWuAjWJ0A.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBjNTI2MzQtNmYyOS00MDQ1LTkzNDQtMDgwZTE0ODA1OWZk"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60c52634-6f29-4045-9344-080e148059fd"
+    },
+    {
+        "description": "Brisa Barra Hotel",
+        "category": "transaction_reversed",
+        "amount": 10000,
+        "time": "2021-06-12T18:47:43Z",
+        "source": "upfront_national",
+        "title": "viagem",
+        "amount_without_iof": 10000,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "canceled",
+            "subcategory": "unknown"
+        },
+        "id": "60c5014f-ac26-48c9-a6f6-b9b790ee2d29",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAC-u55SoHMRqyIrfyyJCicNITV7g.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBjNTAxNGYtYWMyNi00OGM5LWE2ZjYtYjliNzkwZWUyZDI5"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60c5014f-ac26-48c9-a6f6-b9b790ee2d29"
+    },
+    {
+        "description": "Paypal *Uber",
+        "category": "transaction",
+        "amount": 1392,
+        "time": "2021-06-12T17:49:57Z",
+        "source": "upfront_national",
+        "title": "transporte",
+        "amount_without_iof": 1392,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60c4f3c7-53e2-4ab6-a6f5-6f232c5da9dc",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDJwUoKFBKyH26ePQ7TWjOaY9fynA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBjNGYzYzctNTNlMi00YWI2LWE2ZjUtNmYyMzJjNWRhOWRj"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60c4f3c7-53e2-4ab6-a6f5-6f232c5da9dc"
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 3900,
+        "time": "2021-06-10T20:21:21Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 3900,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60c27442-478c-40e5-8d65-b05452524896",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LD-D1DWvvDHAXJE9uQjTAK97TEW3w.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBjMjc0NDItNDc4Yy00MGU1LThkNjUtYjA1NDUyNTI0ODk2"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60c27442-478c-40e5-8d65-b05452524896"
+    },
+    {
+        "description": "Amazonprimebr",
+        "category": "transaction",
+        "amount": 990,
+        "time": "2021-06-07T17:22:02Z",
+        "source": "upfront_national",
+        "title": "educação",
+        "amount_without_iof": 990,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60be55bb-24fe-40ec-9a5a-a6f20b15fe1a",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBiX0u-e1c9OgndzilmHcFuNA0ELw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBiZTU1YmItMjRmZS00MGVjLTlhNWEtYTZmMjBiMTVmZTFh"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60be55bb-24fe-40ec-9a5a-a6f20b15fe1a"
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 3750,
+        "time": "2021-06-06T21:55:44Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 3750,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60bd4461-1ba6-499d-af99-11d2ff19d322",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LCSmbV7Ic6iUECnJEPpu31rtDkHQQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBiZDQ0NjEtMWJhNi00OTlkLWFmOTktMTFkMmZmMTlkMzIy"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60bd4461-1ba6-499d-af99-11d2ff19d322"
+    },
+    {
+        "description": "Dl *Google Ellatio",
+        "category": "transaction",
+        "amount": 2499,
+        "time": "2021-06-06T19:54:51Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 2499,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60bd280e-809c-492f-b8d3-6308ac491d54",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LA8G-RcNMNuMjfRUAXAzqUpqGmuWA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBiZDI4MGUtODA5Yy00OTJmLWI4ZDMtNjMwOGFjNDkxZDU0"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60bd280e-809c-492f-b8d3-6308ac491d54"
+    },
+    {
+        "description": "Netflix.Com",
+        "category": "transaction",
+        "amount": 4590,
+        "time": "2021-06-06T10:33:03Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 4590,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60bca461-72e4-4b22-829f-3543ab7845ac",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LCTqo6ZciwEXncVL7XUffkyFzp0mg.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBiY2E0NjEtNzJlNC00YjIyLTgyOWYtMzU0M2FiNzg0NWFj"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/60bca461-72e4-4b22-829f-3543ab7845ac"
+    },
+    {
+        "category": "payment",
+        "time": "2021-06-01T02:59:59.999Z",
+        "title": "Pagamento recebido",
+        "id": "60b5021a-f253-4e14-800e-21d7444ef1bb",
+        "amount": 374266
+    },
+    {
+        "category": "bill_flow_paid",
+        "time": "2021-05-31T15:34:51.751Z",
+        "title": "Fatura paga",
+        "description": "",
+        "id": "60b5021b-c2f8-4072-8072-1280b3d50532",
+        "href": "nuapp://bill/60af1e93-d12e-4589-a41e-15f6fac7abf1",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAxnjhRstuXKVrtUqxnSk5lYCxt6Q.aHR0cHM6Ly9wcm9kLXMwLWJpbGxpbmcubnViYW5rLmNvbS5ici9hcGkvYmlsbHMvNjBhZjFlOTMtZDEyZS00NTg5LWE0MWUtMTVmNmZhYzdhYmYx"
+            }
+        }
+    },
+    {
+        "description": "Ame Digital",
+        "category": "transaction",
+        "amount": 5132,
+        "time": "2021-05-30T14:29:42Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 5132,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60b3a158-a64f-4222-9319-9fbb39ca694b",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDuc-gZXYHm7ZT3BeR_nlC-nKNwwg.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBiM2ExNTgtYTY0Zi00MjIyLTkzMTktOWZiYjM5Y2E2OTRi"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60b3a158-a64f-4222-9319-9fbb39ca694b"
+    },
+    {
+        "description": "Paypal *Heroconquer",
+        "category": "transaction",
+        "amount": 11568,
+        "time": "2021-05-29T21:24:16Z",
+        "source": "upfront_foreign",
+        "title": "lazer",
+        "amount_without_iof": 10874,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "fx": {
+                "currency_origin": "USD",
+                "amount_origin": 2000,
+                "amount_usd": 2000,
+                "precise_amount_origin": "20",
+                "precise_amount_usd": "20",
+                "exchange_rate": 5.437
+            },
+            "lat": -23.0083343,
+            "lon": -43.4356826,
+            "subcategory": "card_not_present"
+        },
+        "id": "60b2b101-791e-413f-b369-daa338bc0a22",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LCKEYCtqkopBt4UdbUhYuytoMLxNQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBiMmIxMDEtNzkxZS00MTNmLWIzNjktZGFhMzM4YmMwYTIy"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60b2b101-791e-413f-b369-daa338bc0a22"
+    },
+    {
+        "description": "Paypal *Heroconquer",
+        "category": "transaction",
+        "amount": 1156,
+        "time": "2021-05-29T19:00:25Z",
+        "source": "upfront_foreign",
+        "title": "lazer",
+        "amount_without_iof": 1087,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "fx": {
+                "currency_origin": "USD",
+                "amount_origin": 200,
+                "amount_usd": 200,
+                "precise_amount_origin": "2",
+                "precise_amount_usd": "2",
+                "exchange_rate": 5.435
+            },
+            "lat": -23.008443,
+            "lon": -43.4356382,
+            "subcategory": "card_not_present"
+        },
+        "id": "60b28f4a-3849-48f3-915a-04ebc086868d",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LC4zphjD1u0SNV2q24EGt3OJHqJeA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBiMjhmNGEtMzg0OS00OGYzLTkxNWEtMDRlYmMwODY4Njhk"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60b28f4a-3849-48f3-915a-04ebc086868d"
+    },
+    {
+        "description": "Google Youtubepremium",
+        "category": "transaction",
+        "amount": 3190,
+        "time": "2021-05-29T15:18:02Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 3190,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60b25b2b-c187-4980-b5c9-9526a44ed81e",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBgCEdseg6TH_LtTKSRjJ0fwoBNig.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBiMjViMmItYzE4Ny00OTgwLWI1YzktOTUyNmE0NGVkODFl"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60b25b2b-c187-4980-b5c9-9526a44ed81e"
+    },
+    {
+        "category": "bill_flow_closed",
+        "time": "2021-05-27T05:13:34.104Z",
+        "title": "Fatura fechada",
+        "description": "Vence em 04/06, e hoje é o melhor dia para compras.",
+        "id": "60af1e93-d12e-4589-a41e-15f6fac7abf1",
+        "href": "nuapp://bill/60af1e93-d12e-4589-a41e-15f6fac7abf1",
+        "amount": 374266,
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAxnjhRstuXKVrtUqxnSk5lYCxt6Q.aHR0cHM6Ly9wcm9kLXMwLWJpbGxpbmcubnViYW5rLmNvbS5ici9hcGkvYmlsbHMvNjBhZjFlOTMtZDEyZS00NTg5LWE0MWUtMTVmNmZhYzdhYmYx"
+            }
+        }
+    },
+    {
+        "description": "Google Youtubepremium",
+        "category": "transaction",
+        "amount": 108,
+        "time": "2021-05-26T16:53:20Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 108,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60ae7d01-e0be-4b2e-b734-27216f9aaec0",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAqOy6ZjQ3nMq7j6JHK-0MkZeScIQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBhZTdkMDEtZTBiZS00YjJlLWI3MzQtMjcyMTZmOWFhZWMw"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60ae7d01-e0be-4b2e-b734-27216f9aaec0"
+    },
+    {
+        "description": "China In Box Recreio",
+        "category": "transaction",
+        "amount": 6480,
+        "time": "2021-05-23T22:42:57Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 6480,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_present"
+        },
+        "id": "60aada71-536d-4744-be8c-95e453f65dd4",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBHQowFGQ7KAHKJoC7Nb7_gmI4qWw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBhYWRhNzEtNTM2ZC00NzQ0LWJlOGMtOTVlNDUzZjY1ZGQ0"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60aada71-536d-4744-be8c-95e453f65dd4"
+    },
+    {
+        "description": "Paypal *Steam Games",
+        "category": "transaction",
+        "amount": 6817,
+        "time": "2021-05-21T14:51:48Z",
+        "source": "upfront_foreign",
+        "title": "lazer",
+        "amount_without_iof": 6408,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "fx": {
+                "currency_origin": "BRL",
+                "amount_origin": 6150,
+                "amount_usd": 1162,
+                "precise_amount_origin": "61.5",
+                "precise_amount_usd": "11.62",
+                "exchange_rate": 5.514629948364888
+            },
+            "subcategory": "card_not_present"
+        },
+        "id": "60a7c906-a8ef-4424-990b-fb5a70f0ed7b",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBrsZG3rIvyavOCA6CZLXDPsXrOtQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBhN2M5MDYtYThlZi00NDI0LTk5MGItZmI1YTcwZjBlZDdi"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60a7c906-a8ef-4424-990b-fb5a70f0ed7b"
+    },
+    {
+        "description": "Mercadolivre*Techwhee",
+        "category": "transaction",
+        "amount": 2089,
+        "time": "2021-05-21T13:40:35Z",
+        "source": "upfront_national",
+        "title": "outros",
+        "amount_without_iof": 2089,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60a7b854-cfa9-4b92-bccb-a017d161f04c",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LCaNbhY2XaGw5O8zaLpcqo0kD2jaA.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBhN2I4NTQtY2ZhOS00YjkyLWJjY2ItYTAxN2QxNjFmMDRj"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60a7b854-cfa9-4b92-bccb-a017d161f04c"
+    },
+    {
+        "description": "Zp *Ifood",
+        "category": "transaction",
+        "amount": 2869,
+        "time": "2021-05-19T21:19:54Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 2869,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60a580fb-0a56-45b9-b656-5ab0e133e170",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAPROLi4dZ0VhD4GApaWUcRzVU6pQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBhNTgwZmItMGE1Ni00NWI5LWI2NTYtNWFiMGUxMzNlMTcw"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60a580fb-0a56-45b9-b656-5ab0e133e170"
+    },
+    {
+        "description": "Mercpago*Lojaibyte",
+        "category": "transaction",
+        "amount": 124900,
+        "time": "2021-05-18T16:58:37Z",
+        "source": "installments_merchant",
+        "title": "serviços",
+        "amount_without_iof": 124900,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "charges": {
+                "count": 4,
+                "amount": 31225
+            },
+            "subcategory": "card_not_present"
+        },
+        "id": "60a3f23f-61f7-4c63-a600-13b60dc75ace",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDhJ2NtXNPuaEjL5XzsE4a-bnDDGg.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjBhM2YyM2YtNjFmNy00YzYzLWE2MDAtMTNiNjBkYzc1YWNl"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/60a3f23f-61f7-4c63-a600-13b60dc75ace"
+    },
+    {
+        "description": "Riot",
+        "category": "transaction",
+        "amount": 2725,
+        "time": "2021-05-15T14:00:08Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 2725,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "609fd3e8-6297-442e-8dc3-e7af82d086cb",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDVFltI-uYz56T1kvWANMQ8BFvGgw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA5ZmQzZTgtNjI5Ny00NDJlLThkYzMtZTdhZjgyZDA4NmNi"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/609fd3e8-6297-442e-8dc3-e7af82d086cb"
+    },
+    {
+        "description": "Produtos Globo",
+        "category": "transaction",
+        "amount": 2290,
+        "time": "2021-05-13T12:16:19Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 2290,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "609d1894-82ba-49f4-a08e-b9cff1b74abc",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LB6QWS8p9JuQApCs0HfDknO0oxA1g.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA5ZDE4OTQtODJiYS00OWY0LWEwOGUtYjljZmYxYjc0YWJj"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/609d1894-82ba-49f4-a08e-b9cff1b74abc"
+    },
+    {
+        "description": "Ebanx*Spotify",
+        "category": "transaction",
+        "amount": 2690,
+        "time": "2021-05-13T11:49:02Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 2690,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "609d1230-ae8e-4c52-b5ce-5a453589d2c0",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LC2zQjC3VkaRYR00SbfWv7Jc4YwZw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA5ZDEyMzAtYWU4ZS00YzUyLWI1Y2UtNWE0NTM1ODlkMmMw"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/609d1230-ae8e-4c52-b5ce-5a453589d2c0"
+    },
+    {
+        "description": "Paypal *Microsoft Sub",
+        "category": "transaction",
+        "amount": 2999,
+        "time": "2021-05-13T06:21:33Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 2999,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "609cc56e-18a0-4d5c-aaef-f489eb4bee25",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDRGFqWDWqVQPERnYLcz3We7PvAOQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA5Y2M1NmUtMThhMC00ZDVjLWFhZWYtZjQ4OWViNGJlZTI1"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/609cc56e-18a0-4d5c-aaef-f489eb4bee25"
+    },
+    {
+        "description": "Zupper",
+        "category": "transaction",
+        "amount": 14607,
+        "time": "2021-05-12T14:46:15Z",
+        "source": "upfront_national",
+        "title": "viagem",
+        "amount_without_iof": 14607,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "609bea38-8ace-4522-9814-058fc18c0232",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LC9OF7D1OPRVxUi7t5nB3DPhAYcEw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA5YmVhMzgtOGFjZS00NTIyLTk4MTQtMDU4ZmMxOGMwMjMy"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/609bea38-8ace-4522-9814-058fc18c0232"
+    },
+    {
+        "description": "Gol Transp App48sd",
+        "category": "transaction",
+        "amount": 91011,
+        "time": "2021-05-12T14:46:10Z",
+        "source": "upfront_national",
+        "title": "viagem",
+        "amount_without_iof": 91011,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "609bea33-3d17-4d9e-a1f3-6b4e997d4c5b",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LC-K5caQ6YeBumMu_k2y0lEmz7ChQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA5YmVhMzMtM2QxNy00ZDllLWExZjMtNmI0ZTk5N2Q0YzVi"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/609bea33-3d17-4d9e-a1f3-6b4e997d4c5b"
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 10370,
+        "time": "2021-05-08T22:19:49Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 10370,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60970e86-3677-4421-a738-5db249048536",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBsfxToBjclnP9rY-nG7io3GzrS3Q.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA5NzBlODYtMzY3Ny00NDIxLWE3MzgtNWRiMjQ5MDQ4NTM2"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60970e86-3677-4421-a738-5db249048536"
+    },
+    {
+        "description": "Amazonprimebr",
+        "category": "transaction",
+        "amount": 990,
+        "time": "2021-05-07T17:01:59Z",
+        "source": "upfront_national",
+        "title": "educação",
+        "amount_without_iof": 990,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "60957288-2d9f-447e-bad5-3799e2b22059",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LCwV78_88uavD9eI7g4PVz6jAk8CQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA5NTcyODgtMmQ5Zi00NDdlLWJhZDUtMzc5OWUyYjIyMDU5"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/60957288-2d9f-447e-bad5-3799e2b22059"
+    },
+    {
+        "description": "Netflix.Com",
+        "category": "transaction",
+        "amount": 4590,
+        "time": "2021-05-06T10:51:58Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 4590,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "6093ca4e-191a-4d24-8396-0787eb7740e1",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LA-vE3WAyWfWLNIVHk70l7PFxHbjw.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA5M2NhNGUtMTkxYS00ZDI0LTgzOTYtMDc4N2ViNzc0MGUx"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/6093ca4e-191a-4d24-8396-0787eb7740e1"
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 3590,
+        "time": "2021-05-05T20:41:20Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 3590,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "609302f1-a512-4cc9-a037-fffabcb7b7b8",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBIEa-EwZEdxtlcsJcPgM9wpb93lQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA5MzAyZjEtYTUxMi00Y2M5LWEwMzctZmZmYWJjYjdiN2I4"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/609302f1-a512-4cc9-a037-fffabcb7b7b8"
+    },
+    {
+        "description": "Riot",
+        "category": "transaction",
+        "amount": 5450,
+        "time": "2021-05-01T17:04:06Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 5450,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "608d8a07-522f-4fb0-aa12-03fb60843d0d",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LDss4viVBpsCmNqtewX-etKltbPtQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA4ZDhhMDctNTIyZi00ZmIwLWFhMTItMDNmYjYwODQzZDBk"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/608d8a07-522f-4fb0-aa12-03fb60843d0d"
+    },
+    {
+        "description": "Google Vialsoft",
+        "category": "transaction",
+        "amount": 1599,
+        "time": "2021-05-01T13:02:57Z",
+        "source": "upfront_national",
+        "title": "eletrônicos",
+        "amount_without_iof": 1599,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "608d5182-380d-4ddf-bb1c-b4e7951aabce",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LC6XWDHP9lL0Gk1CjUMWovrozSvNg.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA4ZDUxODItMzgwZC00ZGRmLWJiMWMtYjRlNzk1MWFhYmNl"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/608d5182-380d-4ddf-bb1c-b4e7951aabce"
+    },
+    {
+        "category": "payment",
+        "time": "2021-05-01T02:59:59.999Z",
+        "title": "Pagamento recebido",
+        "id": "608bf4a9-6122-4a0a-b4d9-f57d856a828b",
+        "amount": 189746
+    },
+    {
+        "category": "bill_flow_paid",
+        "time": "2021-04-30T12:14:33.548Z",
+        "title": "Fatura paga",
+        "description": "",
+        "id": "608bf4a9-b6a5-4ba8-82f3-39191e2b70a4",
+        "href": "nuapp://bill/608642dc-ffd4-46dc-a1d3-2dc9bf2375f9",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LANb-Ci3yu-vB0GVlGg69YWPbDZSQ.aHR0cHM6Ly9wcm9kLXMwLWJpbGxpbmcubnViYW5rLmNvbS5ici9hcGkvYmlsbHMvNjA4NjQyZGMtZmZkNC00NmRjLWExZDMtMmRjOWJmMjM3NWY5"
+            }
+        }
+    },
+    {
+        "description": "Google Youtubepremium",
+        "category": "transaction",
+        "amount": 2090,
+        "time": "2021-04-29T15:18:03Z",
+        "source": "upfront_national",
+        "title": "educação",
+        "amount_without_iof": 2090,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "608ace2c-ed4d-4cfa-9400-ab13115c65df",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LCgbOFjB4xElUZfKk6d8yaZzjhjQg.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA4YWNlMmMtZWQ0ZC00Y2ZhLTk0MDAtYWIxMzExNWM2NWRm"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/608ace2c-ed4d-4cfa-9400-ab13115c65df"
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 5480,
+        "time": "2021-04-28T22:52:24Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 5480,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "6089e729-d394-4467-8c63-056fa1429af8",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LALguXvEhaKOTsqtf9cjKpJPq4Kdg.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA4OWU3MjktZDM5NC00NDY3LThjNjMtMDU2ZmExNDI5YWY4"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/6089e729-d394-4467-8c63-056fa1429af8"
+    },
+    {
+        "category": "bill_flow_closed",
+        "time": "2021-04-26T05:09:25.856Z",
+        "title": "Fatura fechada",
+        "description": "Vence em 03/05, e hoje é o melhor dia para compras.",
+        "id": "608642dc-ffd4-46dc-a1d3-2dc9bf2375f9",
+        "href": "nuapp://bill/608642dc-ffd4-46dc-a1d3-2dc9bf2375f9",
+        "amount": 189746,
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LANb-Ci3yu-vB0GVlGg69YWPbDZSQ.aHR0cHM6Ly9wcm9kLXMwLWJpbGxpbmcubnViYW5rLmNvbS5ici9hcGkvYmlsbHMvNjA4NjQyZGMtZmZkNC00NmRjLWExZDMtMmRjOWJmMjM3NWY5"
+            }
+        }
+    },
+    {
+        "description": "Ame Digital",
+        "category": "transaction",
+        "amount": 29372,
+        "time": "2021-04-25T23:37:53Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 29372,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "6085fd53-7e8b-4784-82b3-1b229f186dbb",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAqOnfzV01Ewmnh1szmZ3i18p5Tvg.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA4NWZkNTMtN2U4Yi00Nzg0LTgyYjMtMWIyMjlmMTg2ZGJi"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/6085fd53-7e8b-4784-82b3-1b229f186dbb"
+    },
+    {
+        "description": "Pag*Analuciafidelisde",
+        "category": "transaction",
+        "amount": 4700,
+        "time": "2021-04-25T14:47:20Z",
+        "source": "upfront_national",
+        "title": "serviços",
+        "amount_without_iof": 4700,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_present"
+        },
+        "id": "608580f9-87f5-45b7-b154-2459f9a9319e",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBJAGDKuIy7OG5NzGsbpKPu93w9bQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA4NTgwZjktODdmNS00NWI3LWIxNTQtMjQ1OWY5YTkzMTll"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/608580f9-87f5-45b7-b154-2459f9a9319e"
+    },
+    {
+        "description": "China In Box Recreio",
+        "category": "transaction",
+        "amount": 8870,
+        "time": "2021-04-24T22:25:37Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 8870,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_present"
+        },
+        "id": "60849ae2-0ee8-4a22-89cd-0e146689ac63",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBx10D_x5EAmSpghjo77HCwU1kw3A.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA4NDlhZTItMGVlOC00YTIyLTg5Y2QtMGUxNDY2ODlhYzYz"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/60849ae2-0ee8-4a22-89cd-0e146689ac63"
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 6979,
+        "time": "2021-04-21T22:14:37Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 6979,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "6080a3ce-42c1-49c6-892e-499cd22b0adf",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LBdgOXO1ekjahmrnv5WtAWc92s4HQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA4MGEzY2UtNDJjMS00OWM2LTg5MmUtNDk5Y2QyMmIwYWRm"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/6080a3ce-42c1-49c6-892e-499cd22b0adf"
+    },
+    {
+        "description": "Ifood *Ifood",
+        "category": "transaction",
+        "amount": 5990,
+        "time": "2021-04-19T21:10:52Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 5990,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "607df1dc-e0a4-4bdb-ba24-ae718c2543f6",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LAh22fi6i7BbyCvFiQ5xVVFN_KwRQ.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA3ZGYxZGMtZTBhNC00YmRiLWJhMjQtYWU3MThjMjU0M2Y2"
+            }
+        },
+        "tokenized": false,
+        "href": "nuapp://transaction/607df1dc-e0a4-4bdb-ba24-ae718c2543f6"
+    },
+    {
+        "description": "Ifd*Ifood",
+        "category": "transaction",
+        "amount": 4240,
+        "time": "2021-04-18T22:17:14Z",
+        "source": "upfront_national",
+        "title": "restaurante",
+        "amount_without_iof": 4240,
+        "account": "57fd27df-c049-4e8a-90f8-fbd4083acdf3",
+        "details": {
+            "status": "settled",
+            "subcategory": "card_not_present"
+        },
+        "id": "607cafeb-6bfa-43d0-9f27-650913662b65",
+        "_links": {
+            "self": {
+                "href": "https://prod-global-webapp-proxy.nubank.com.br/api/proxy/AJxL5LB5RuTTn5drhxPNltCvx0FjfQgTFg.aHR0cHM6Ly9wcm9kLXMwLWZhY2FkZS5udWJhbmsuY29tLmJyL2FwaS90cmFuc2FjdGlvbnMvNjA3Y2FmZWItNmJmYS00M2QwLTlmMjctNjUwOTEzNjYyYjY1"
+            }
+        },
+        "tokenized": true,
+        "href": "nuapp://transaction/607cafeb-6bfa-43d0-9f27-650913662b65"
+    }
+]
